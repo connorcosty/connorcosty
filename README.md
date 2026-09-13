@@ -4,8 +4,6 @@ Second-year Data Science BSc (Year in Industry) at the University of Bristol,
 applying for 2027/28 placements. Interested in where quantitative methods meet
 real-world decisions.
 
-I like implementing things from scratch rather than calling a library for them.
-
 ## Projects
 
 **[urban-air-quality](https://github.com/connorcosty/urban-air-quality)** — 
